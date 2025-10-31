@@ -1,1 +1,3 @@
 # feellight
+
+Simple site hosting
